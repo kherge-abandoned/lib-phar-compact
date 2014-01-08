@@ -79,6 +79,7 @@ This library is available under the [MIT license](LICENSE).
 [Total Downloads]: https://poser.pugx.org/phine/phar-compact/downloads.png
 [Phine Compact]: https://github.com/phine/lib-compact
 [Phine Exception]: https://github.com/phine/lib-exception
+[Phine Observer]: https://github.com/phine/lib-observer
 [Phine Phar]: https://github.com/phine/lib-phar
 [Composer]: http://getcomposer.org/
 [documentation here]: http://phine.github.io/lib-phar-compact
