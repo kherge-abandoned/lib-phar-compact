@@ -1,5 +1,5 @@
-Phar
-====
+Phar Compact
+============
 
 [![Build Status][]](https://travis-ci.org/phine/lib-phar-compact)
 [![Coverage Status][]](https://coveralls.io/r/phine/lib-phar-compact)
