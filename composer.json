@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "phine/compact": "~1.2",
+        "phine/compact": "~1.1",
         "phine/exception": "~1.0",
         "phine/observer": "~2.0",
         "phine/path": "~1.0",

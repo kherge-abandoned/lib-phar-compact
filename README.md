@@ -12,7 +12,7 @@ Requirement
 -----------
 
 - PHP >= 5.3.3
-- [Phine Compact][] >= 1.2
+- [Phine Compact][] >= 1.1
 - [Phine Exception][] >= 1.0.0
 - [Phine Observer][] >= 2.0
 - [Phine Phar][] >= 1.0.0
