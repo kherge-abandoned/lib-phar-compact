@@ -1,0 +1,46 @@
+{
+    "name": "phine/phar-compact",
+    "description": "Integrates the compact library with the phar library.",
+    "keywords": ["phar","compact"],
+    "homepage": "https://github.com/phine/lib-phar-compact",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Herrera",
+            "email": "kevin@herrera.io",
+            "homepage": "http://kevin.herrera.io"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/phine/lib-phar-compact/issues"
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "phine/compact": "~1.2",
+        "phine/exception": "~1.0",
+        "phine/observer": "~2.0",
+        "phine/path": "~1.0",
+        "phine/phar": "~1.0"
+    },
+    "require-dev": {
+        "league/phpunit-coverage-listener": "~1.0",
+        "phine/test": "~1.0"
+    },
+    "suggest": {
+        "ext-phar": "For creating PHP archives."
+    },
+    "autoload": {
+        "psr-0": {
+            "Phine\\Phar\\Compact": "src/lib"
+        }
+    },
+    "config": {
+        "bin-dir": "bin",
+        "vendor-dir": "src/vendors"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
